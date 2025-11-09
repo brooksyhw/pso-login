@@ -6,3 +6,5 @@ node_modules/
 server.js
 server-solution.js
 .env
+.env
+node_modules/
