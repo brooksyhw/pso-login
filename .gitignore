@@ -5,3 +5,4 @@ node_modules/
 # Solutions - don't push to students
 server.js
 server-solution.js
+.env
